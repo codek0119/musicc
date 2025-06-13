@@ -14,7 +14,7 @@ emotion_music = {
     ],
     "슬퍼요 😢": [
         {"title": "이하이 - 한숨", "url": "https://www.youtube.com/watch?v=AT9e7H-X4Pg&list=RDAT9e7H-X4Pg&start_radio=1&pp=ygUG7ZWc7IiooAcB"},
-        {"title": "헤이즈 - 비도 오고 그래", "url": "https://www.youtube.com/watch?v=aYDs3T-r__4&list=RDaYDs3T-r__4&start_radio=1&pp=ygUV67mE64-E7Jik6rOg6re4656Y7IScoAcB"},
+        {"title": "헤이즈 - 비도 오고 그래서", "url": "https://www.youtube.com/watch?v=aYDs3T-r__4&list=RDaYDs3T-r__4&start_radio=1&pp=ygUV67mE64-E7Jik6rOg6re4656Y7IScoAcB"},
     ],
     "화나요 😠": [
         {"title": "방탄소년단 - MIC Drop", "url": "https://www.youtube.com/watch?v=Zj3TcKZY648&list=RDZj3TcKZY648&start_radio=1&pp=ygUP66eI7J207YGs65Oc66GtoAcB"},
